@@ -1,0 +1,27 @@
+{
+  "name": "pcat",
+  "version": "1.0.0",
+  "description": "PCAT APP PHOTO",
+  "keywords": [
+    "App",
+    "Photo"
+  ],
+  "homepage": "https://github.com/Ch20505/PCAT#readme",
+  "bugs": {
+    "url": "https://github.com/Ch20505/PCAT/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ch20505/PCAT.git"
+  },
+  "license": "ISC",
+  "author": "hasan",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "prettier": "3.8.1"
+  }
+}
